@@ -1,0 +1,63 @@
+Unnamed: 0,student_id,name,email,phone,age,gender,course_name,course_code,cat1_marks,cat2_marks,assignment_marks,attendance_marks,quiz_marks,total_internal_marks,risk_level,risk_score
+0,STU1000,Student A. Smith,student1000@university.edu,+1-555-1000,20,Male,Computer Science Engineering,CS101,7.7,6.8,13.3,4.8,6.6,39.2,Medium,65.33333333333334
+0,STU1001,Emily Johnson,emily.johnson@university.edu,-1555,20,Female,Computer Science Engineering,CS101,8.2,7.5,14.3,4.9,7.1,42.0,High,70.0
+1,STU1002,Michael Chen,michael.chen@university.edu,-1556,19,Male,Electrical Engineering,EE201,7.8,6.9,13.2,4.5,6.8,39.2,Failure,65.3
+2,STU1003,Sophia Rodriguez,sophia.rodriguez@university.edu,-1557,21,Female,Mechanical Engineering,ME301,6.5,5.8,12.1,4.2,5.9,34.5,Failure,57.5
+3,STU1004,James Wilson,james.wilson@university.edu,-1558,20,Male,Civil Engineering,CE401,9.1,8.3,15.2,4.8,7.8,45.19999999999999,Medium,75.3
+4,STU1005,Emma Brown,emma.brown@university.edu,-1559,22,Female,Information Technology,IT501,7.2,6.4,11.8,4.1,6.2,35.7,Failure,59.5
+5,STU1006,Daniel Kim,daniel.kim@university.edu,-1560,19,Male,Computer Science Engineering,CS101,8.7,7.9,14.1,4.7,7.3,42.7,High,71.2
+6,STU1007,Olivia Davis,olivia.davis@university.edu,-1561,20,Female,Electrical Engineering,EE201,6.8,5.9,10.9,3.9,5.6,33.1,Failure,55.2
+7,STU1008,William Martinez,william.martinez@university.edu,-1562,21,Male,Mechanical Engineering,ME301,7.9,7.2,13.5,4.4,6.7,39.7,Failure,66.2
+8,STU1009,Ava Garcia,ava.garcia@university.edu,-1563,18,Female,Civil Engineering,CE401,8.4,7.6,14.8,4.6,7.0,42.4,High,70.7
+9,STU1010,Ethan Anderson,ethan.anderson@university.edu,-1564,20,Male,Information Technology,IT501,6.3,5.7,10.5,3.8,5.4,31.700000000000003,Failure,52.8
+10,STU1011,Isabella Thomas,isabella.thomas@university.edu,-1565,19,Female,Computer Science Engineering,CS101,9.3,8.6,15.7,4.9,8.1,46.6,Medium,77.7
+11,STU1012,Alexander Lee,alexander.lee@university.edu,-1566,22,Male,Electrical Engineering,EE201,7.5,6.8,12.8,4.3,6.4,37.8,Failure,63.0
+12,STU1013,Mia White,mia.white@university.edu,-1567,20,Female,Mechanical Engineering,ME301,8.1,7.4,13.9,4.5,6.9,40.8,High,68.0
+13,STU1014,Benjamin Harris,benjamin.harris@university.edu,-1568,19,Male,Civil Engineering,CE401,6.9,6.2,11.3,4.0,5.8,34.2,Failure,57.0
+14,STU1015,Charlotte Clark,charlotte.clark@university.edu,-1569,21,Female,Information Technology,IT501,8.8,8.1,14.9,4.7,7.5,44.0,Medium,73.3
+15,STU1016,Henry Lewis,henry.lewis@university.edu,-1570,18,Male,Computer Science Engineering,CS101,7.1,6.5,12.4,4.2,6.1,36.3,Failure,60.5
+16,STU1017,Amelia Walker,amelia.walker@university.edu,-1571,20,Female,Electrical Engineering,EE201,9.0,8.2,15.1,4.8,7.7,44.8,Medium,74.7
+17,STU1018,Samuel Hall,samuel.hall@university.edu,-1572,19,Male,Mechanical Engineering,ME301,6.7,6.0,11.1,3.9,5.5,33.2,Failure,55.3
+18,STU1019,Harper Allen,harper.allen@university.edu,-1573,22,Female,Civil Engineering,CE401,8.5,7.8,14.3,4.6,7.2,42.400000000000006,High,70.7
+19,STU1020,Jacob Young,jacob.young@university.edu,-1574,20,Male,Information Technology,IT501,7.6,6.9,12.9,4.3,6.5,38.2,Failure,63.7
+20,STU1021,Abigail King,abigail.king@university.edu,-1575,19,Female,Computer Science Engineering,CS101,8.9,8.1,14.7,4.7,7.4,43.8,Medium,73.0
+21,STU1022,Matthew Scott,matthew.scott@university.edu,-1576,21,Male,Electrical Engineering,EE201,6.4,5.8,10.8,3.8,5.3,32.1,Failure,53.5
+22,STU1023,Elizabeth Green,elizabeth.green@university.edu,-1577,18,Female,Mechanical Engineering,ME301,9.2,8.4,15.4,4.9,7.9,45.8,Medium,76.3
+23,STU1024,David Baker,david.baker@university.edu,-1578,20,Male,Civil Engineering,CE401,7.3,6.7,12.6,4.2,6.3,37.1,Failure,61.8
+24,STU1025,Samantha Adams,samantha.adams@university.edu,-1579,19,Female,Information Technology,IT501,8.6,7.9,14.2,4.6,7.1,42.4,High,70.7
+25,STU1026,Joseph Nelson,joseph.nelson@university.edu,-1580,22,Male,Computer Science Engineering,CS101,7.0,6.4,12.2,4.1,5.9,35.6,Failure,59.3
+26,STU1027,Grace Carter,grace.carter@university.edu,-1581,20,Female,Electrical Engineering,EE201,8.3,7.6,13.8,4.5,6.8,41.0,High,68.3
+27,STU1028,Andrew Mitchell,andrew.mitchell@university.edu,-1582,19,Male,Mechanical Engineering,ME301,6.8,6.1,11.4,4.0,5.7,34.0,Failure,56.7
+28,STU1029,Chloe Perez,chloe.perez@university.edu,-1583,21,Female,Civil Engineering,CE401,9.4,8.7,15.8,4.9,8.2,47.0,Medium,78.3
+29,STU1030,Christopher Roberts,christopher.roberts@university.edu,-1584,18,Male,Information Technology,IT501,7.7,7.0,13.1,4.4,6.6,38.8,Failure,64.7
+30,STU1031,Victoria Turner,victoria.turner@university.edu,-1585,20,Female,Computer Science Engineering,CS101,8.0,7.3,13.6,4.4,6.7,40.0,High,66.7
+31,STU1032,Joshua Phillips,joshua.phillips@university.edu,-1586,19,Male,Electrical Engineering,EE201,7.2,6.5,12.3,4.2,6.0,36.2,Failure,60.3
+32,STU1033,Lily Campbell,lily.campbell@university.edu,-1587,22,Female,Mechanical Engineering,ME301,8.7,7.9,14.1,4.6,7.3,42.6,High,71.0
+33,STU1034,Anthony Parker,anthony.parker@university.edu,-1588,20,Male,Civil Engineering,CE401,6.6,5.9,10.7,3.9,5.4,32.5,Failure,54.2
+34,STU1035,Zoe Evans,zoe.evans@university.edu,-1589,19,Female,Information Technology,IT501,9.1,8.3,15.0,4.8,7.6,44.8,Medium,74.7
+35,STU1036,Ryan Edwards,ryan.edwards@university.edu,-1590,21,Male,Computer Science Engineering,CS101,7.4,6.8,12.7,4.3,6.2,37.4,Failure,62.3
+36,STU1037,Addison Collins,addison.collins@university.edu,-1591,18,Female,Electrical Engineering,EE201,8.4,7.7,14.0,4.5,6.9,41.5,High,69.2
+37,STU1038,Jonathan Stewart,jonathan.stewart@university.edu,-1592,20,Male,Mechanical Engineering,ME301,7.1,6.4,12.0,4.1,5.8,35.4,Failure,59.0
+38,STU1039,Evelyn Sanchez,evelyn.sanchez@university.edu,-1593,19,Female,Civil Engineering,CE401,8.8,8.0,14.5,4.7,7.4,43.4,Medium,72.3
+39,STU1040,Nathan Morris,nathan.morris@university.edu,-1594,22,Male,Information Technology,IT501,6.9,6.3,11.5,4.0,5.6,34.3,Failure,57.2
+40,STU1041,Hannah Rogers,hannah.rogers@university.edu,-1595,20,Female,Computer Science Engineering,CS101,9.3,8.5,15.3,4.8,7.8,45.7,Medium,76.2
+41,STU1042,Isaac Reed,isaac.reed@university.edu,-1596,19,Male,Electrical Engineering,EE201,7.5,6.8,12.8,4.3,6.3,37.7,Failure,62.8
+42,STU1043,Avery Cook,avery.cook@university.edu,-1597,21,Female,Mechanical Engineering,ME301,8.2,7.5,13.7,4.5,6.8,40.7,High,67.8
+43,STU1044,Julian Morgan,julian.morgan@university.edu,-1598,18,Male,Civil Engineering,CE401,7.0,6.4,12.1,4.1,5.9,35.5,Failure,59.2
+44,STU1045,Scarlett Bell,scarlett.bell@university.edu,-1599,20,Female,Information Technology,IT501,8.5,7.8,14.1,4.6,7.2,42.2,High,70.3
+45,STU1046,Luke Murphy,luke.murphy@university.edu,-1600,19,Male,Computer Science Engineering,CS101,6.7,6.1,11.2,3.9,5.5,33.4,Failure,55.7
+46,STU1047,Lillian Bailey,lillian.bailey@university.edu,-1601,22,Female,Electrical Engineering,EE201,9.0,8.2,15.0,4.8,7.6,44.6,Medium,74.3
+47,STU1048,Gabriel Rivera,gabriel.rivera@university.edu,-1602,20,Male,Mechanical Engineering,ME301,7.6,6.9,13.0,4.3,6.4,38.2,Failure,63.7
+48,STU1049,Penelope Cooper,penelope.cooper@university.edu,-1603,19,Female,Civil Engineering,CE401,8.3,7.6,13.9,4.5,6.7,41.0,High,68.3
+49,STU1050,Dylan Richardson,dylan.richardson@university.edu,-1604,21,Male,Information Technology,IT501,7.3,6.7,12.5,4.2,6.1,36.8,Failure,61.3
+50,STU1051,Aurora Cox,aurora.cox@university.edu,-1605,18,Female,Computer Science Engineering,CS101,8.9,8.1,14.6,4.7,7.3,43.6,Medium,72.7
+51,STU1052,Carter Howard,carter.howard@university.edu,-1606,20,Male,Electrical Engineering,EE201,6.8,6.2,11.6,4.0,5.7,34.300000000000004,Failure,57.2
+52,STU1053,Natalie Ward,natalie.ward@university.edu,-1607,19,Female,Mechanical Engineering,ME301,9.2,8.4,15.2,4.8,7.7,45.3,Medium,75.5
+53,STU1054,John Torres,john.torres@university.edu,-1608,22,Male,Civil Engineering,CE401,7.4,6.8,12.6,4.3,6.2,37.3,Failure,62.2
+54,STU1055,Stella Peterson,stella.peterson@university.edu,-1609,20,Female,Information Technology,IT501,8.1,7.4,13.5,4.4,6.6,40.0,High,66.7
+55,STU1056,Isaiah Gray,isaiah.gray@university.edu,-1610,19,Male,Computer Science Engineering,CS101,7.7,7.0,13.2,4.4,6.5,38.8,Failure,64.7
+56,STU1057,Maya Ramirez,maya.ramirez@university.edu,-1611,21,Female,Electrical Engineering,EE201,8.6,7.9,14.3,4.6,7.1,42.5,High,70.8
+57,STU1058,Thomas James,thomas.james@university.edu,-1612,18,Male,Mechanical Engineering,ME301,6.9,6.3,11.7,4.0,5.8,34.7,Failure,57.8
+58,STU1059,Ella Watson,ella.watson@university.edu,-1613,20,Female,Civil Engineering,CE401,9.1,8.3,15.1,4.8,7.5,44.8,Medium,74.7
+59,STU1060,Charles Brooks,charles.brooks@university.edu,-1614,19,Male,Information Technology,IT501,7.8,7.1,13.4,4.4,6.7,39.4,Failure,65.7
+60,STU1061,Aaliyah Sanders,aaliyah.sanders@university.edu,-1615,22,Female,Computer Science Engineering,CS101,8.4,7.7,14.0,4.5,6.9,41.5,High,69.2

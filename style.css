@@ -1,0 +1,213 @@
+/* EduRisk Analyzer Pro - Enhanced Theme System */
+
+/* Main App Styling */
+.stApp {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Headers */
+.main-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.main-header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.main-header p {
+    margin: 0.5rem 0 0 0;
+    font-size: 1.2rem;
+    opacity: 0.9;
+}
+
+/* Cards */
+.card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    border-left: 4px solid #667eea;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
+
+/* Metrics */
+[data-testid="metric-container"] {
+    background: white;
+    border-radius: 10px;
+    padding: 1.5rem;
+    border-left: 4px solid #667eea;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+}
+
+[data-testid="metric-container"]:hover {
+    transform: translateY(-2px);
+}
+
+/* Buttons */
+.stButton button {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 0.75rem 1.5rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    width: 100%;
+}
+
+.stButton button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 0;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    background-color: transparent;
+    border-radius: 6px;
+    border: none;
+    color: #6c757d;
+    margin: 0 2px;
+    padding: 0.75rem 1.5rem;
+    transition: all 0.3s ease;
+}
+
+.stTabs [data-baseweb="tab"]:hover {
+    background-color: rgba(102, 126, 234, 0.1);
+    color: #667eea;
+}
+
+.stTabs [aria-selected="true"] {
+    background-color: #667eea;
+    color: white;
+    font-weight: 600;
+}
+
+/* Dataframes */
+.stDataFrame {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* Input Fields */
+.stTextInput input, .stNumberInput input, .stSelectbox select, .stTextArea textarea {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 0.5rem 0.75rem;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.stTextInput input:focus, .stNumberInput input:focus, 
+.stSelectbox select:focus, .stTextArea textarea:focus {
+    border-color: #667eea;
+    box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.2);
+}
+
+/* Alerts */
+.stAlert {
+    border-radius: 8px;
+    border-left: 4px solid;
+}
+
+.stSuccess {
+    border-left-color: #28a745 !important;
+}
+
+.stError {
+    border-left-color: #dc3545 !important;
+}
+
+.stWarning {
+    border-left-color: #ffc107 !important;
+}
+
+.stInfo {
+    border-left-color: #17a2b8 !important;
+}
+
+/* Progress Bars */
+.stProgress > div > div > div > div {
+    background: linear-gradient(90deg, #667eea, #764ba2);
+}
+
+/* Sidebar */
+.css-1d391kg {
+    background: linear-gradient(180deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+/* Risk Level Colors */
+.risk-low { color: #28a745; font-weight: 600; }
+.risk-medium { color: #ffc107; font-weight: 600; }
+.risk-high { color: #fd7e14; font-weight: 600; }
+.risk-failure { color: #dc3545; font-weight: 600; }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .main-header {
+        padding: 1rem;
+    }
+    
+    .main-header h1 {
+        font-size: 2rem;
+    }
+    
+    .card {
+        padding: 1rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    [data-testid="metric-container"] {
+        padding: 1rem;
+        margin-bottom: 0.5rem;
+    }
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.card, [data-testid="metric-container"] {
+    animation: fadeIn 0.5s ease-out;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #667eea;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #5a6fd8;
+}
